@@ -1,0 +1,39 @@
+@media screen and (max-width:750px) {
+  .wrapper {
+    width: 200px;
+  }
+
+  .header {
+    height: 200px;
+  }
+
+  .ul1 {
+    display: block;
+    height: auto;
+    width: 60px;
+    margin-right: 60px;
+  }
+
+  .left {
+    width: 200px;
+    height: 50px;
+  }
+
+.right {
+  width: 200px;
+}
+
+.box2 {
+  width: 140px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.box3 {
+  width: 130px;
+  margin: 0 auto;
+}
+
+
+
+}
