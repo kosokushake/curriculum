@@ -1,0 +1,33 @@
+* {
+  background-color: rgb(133, 133, 133);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: aliceblue;
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 0px;
+  margin-top: 100px;
+}
+
+.line {
+  border-bottom: solid 2px aliceblue;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.my_name {
+  background-color: aliceblue;
+  height: 30px;
+}
+
+.submit {
+  background-color: aliceblue;
+  padding: 5px;
+}

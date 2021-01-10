@@ -1,0 +1,62 @@
+* {
+  background-color: rgb(133, 133, 133);
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  color:white;  
+} 
+
+.my_name {
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 170px;
+}
+
+.h21 {
+  width: 420px;
+  margin: 0 auto;
+}
+
+.h22 {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.h23 {
+  width: 530px;
+  margin: 0 auto;
+}
+
+.submit {
+  width: 60px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  margin-top: 0px;
+}
+
+.radio1 {
+  width: 160px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.radio2 {
+  width: 240px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.radio3 {
+  width: 270px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+
+
