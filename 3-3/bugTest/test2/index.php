@@ -1,6 +1,6 @@
 <?php
 require_once('db_connect.php');
-require_once('dbconnect.php');
+// require_once('dbconnect.php');
 // セッション開始
 // session_start();
 // include_once("dbInfo.php");
