@@ -1,6 +1,6 @@
 <?php
 // DB名
-define('DB_DATABASE', 'yigroupBlog');
+define('DB_DATABASE', 'YIGroupBlog');
 // MySQLのユーザー名
 define('DB_USERNAME', 'root');
 // MySQLのログインパスワード
@@ -32,6 +32,6 @@ $db['host'] = "localhost";
 // ユーザー名
 $db['user'] = "root";
 // ユーザー名のパスワード
-$db['pass'] = "";
+$db['pass'] = "root";
 // データベース名
-$db['dbname'] = "loginManagement";
+$db['dbname'] = "YIGroupBlog";
